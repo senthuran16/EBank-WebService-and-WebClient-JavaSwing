@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:29070/EBankEmployee_WS/EBankEmployee_WS?wsdl" uri="xml-resources/web-service-references/EBankEmployee_WS/wsdl/localhost_29070/EBankEmployee_WS/EBankEmployee_WS.wsdl"/>
+    <system systemId="http://localhost:29070/EBankEmployee_WS/EBankEmployee_WS?xsd=1" uri="xml-resources/web-service-references/EBankEmployee_WS/wsdl/localhost_29070/EBankEmployee_WS/EBankEmployee_WS.xsd_1.xsd"/>
+    <system systemId="http://localhost:29070/EBankCustomer_WS/EBankCustomer_WS?wsdl" uri="xml-resources/web-service-references/EBankCustomer_WS/wsdl/localhost_29070/EBankCustomer_WS/EBankCustomer_WS.wsdl"/>
+    <system systemId="http://localhost:29070/EBankCustomer_WS/EBankCustomer_WS?xsd=1" uri="xml-resources/web-service-references/EBankCustomer_WS/wsdl/localhost_29070/EBankCustomer_WS/EBankCustomer_WS.xsd_1.xsd"/>
+</catalog>
